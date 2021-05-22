@@ -1,0 +1,37 @@
+{
+  "general": {
+    "auto": false,
+    "rate": 4,
+    "gripType": "cgm:one_handed",
+    "maxAmmo": 7,
+    "reloadAmount": 1,
+    "recoilAngle": 0.25
+  },
+  "projectile": {
+    "item": "cgm:basic_bullet",
+    "visible": true,
+    "damage": 16,
+    "size": 0.2,
+    "speed": 20,
+    "life": 20,
+    "gravity": true
+  },
+  "sounds": {
+    "fire": "cgm:item.pistol.fire",
+    "reload": "cgm:item.pistol.reload",
+    "silencedFire": "cgm:item.pistol.fire"
+  },
+  "modules": {
+    "zoom": {
+      "fovModifier": 0.7,
+      "yOffset": 4.5
+    },
+    "attachments": {
+      "barrel": {
+        "yOffset": 2.6,
+        "zOffset": 6.0,
+        "scale": 0.5
+      }
+    }
+  }
+}

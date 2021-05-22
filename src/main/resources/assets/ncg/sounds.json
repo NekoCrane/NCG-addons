@@ -1,0 +1,14 @@
+{
+  "item.M1911.fire": {
+    "subtitle": "subtitle.ncg.M1911_fire",
+    "sounds": [
+      { "name": "ncg:item/M1911_fire" }
+    ]
+  },
+  "item.M1911.reload": {
+    "subtitle": "subtitle.ncg.M1911_reload",
+    "sounds": [
+      { "name": "ncg:item/M1911_reload" }
+    ]
+  }
+}
